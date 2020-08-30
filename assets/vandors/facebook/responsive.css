@@ -1,0 +1,63 @@
+@media all and (max-width: 774px){
+	.logo-area {
+    float: none;
+   margin-bottom:20px;
+}
+.input-area form {
+    float: none;
+}
+	
+	
+.input-area {
+    float: none;
+    width: 100%;
+}
+
+.login-first{
+	
+	float:none;
+	margin:0;
+	
+}.login-second{
+	
+	float:none;
+
+}.login-third{
+	
+	float:none;
+
+}
+
+.input-area input[type='text'],.input-area input[type='password']{
+	
+	width:100%;
+	
+}
+
+.input-area label {
+    color: black;
+  
+
+}
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

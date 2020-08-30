@@ -1,0 +1,6 @@
+@media(max-width:576px) {
+    .text-secondary {
+        font-size: 11px!important;
+        width: 20px;
+    }
+}

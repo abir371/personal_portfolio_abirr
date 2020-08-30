@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{scroll-behavior:smooth;}
+
+.navbar-brand .text-secondary {
+    color: #6c757d !important;
+    font-size: 16px;
+    width: 20px;
+}
+
+
+/* =======service======= */
+
+.img-1 {
+    background: url(assets/vandors/images/Screenshot_2020-08-21\ Wellcome\ your\ Enjoy_Food.jpg);
+    background-size: cover;
+    height: 70vh;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.img-2 {
+    background: url(assets/vandors/images/Screenshot_2020-08-21\ Facebook-log\ in\ or\ sign\ up\ title\ .png);
+    background-size: cover;
+    height: 70vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.img-3 {
+    background: url(assets/vandors/images/Screenshot_2020-08-27\ Document.jpg);
+    background-size: cover;
+    height: 70vh;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.carousel-inner {
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 32%;
+}
+
+.carousel-item:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
